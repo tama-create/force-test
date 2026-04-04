@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Community Member Layout</layout>
+        <layoutType>CommunityMemberLayout</layoutType>
+        <sections>
+            <label><!-- Chatter Settings --></label>
+            <section>Chatter Settings</section>
+        </sections>
+        <sections>
+            <label><!-- Language And Locale Settings --></label>
+            <section>Language And Locale Settings</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>ユーザープロファイルレイアウト</layout>
+        <layoutType>UserAlt</layoutType>
+        <sections>
+            <label><!-- 情報 --></label>
+            <section>情報</section>
+        </sections>
+        <sections>
+            <label><!-- 背景 --></label>
+            <section>背景</section>
+        </sections>
+        <sections>
+            <label><!-- 連絡先 --></label>
+            <section>連絡先</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>
