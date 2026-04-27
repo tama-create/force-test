@@ -11,4 +11,5 @@
     <enableEinsteinGptGlobalLangSupport>false</enableEinsteinGptGlobalLangSupport>
     <enableEinsteinGptPlatform>true</enableEinsteinGptPlatform>
     <enableEnhancedPromptSecurity>false</enableEnhancedPromptSecurity>
+    <enablePBJinjaSyntaxBeta>false</enablePBJinjaSyntaxBeta>
 </EinsteinGptSettings>
